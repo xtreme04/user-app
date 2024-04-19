@@ -6,6 +6,10 @@ type User = {
     gender? : string;
     avatar? : string;
     bio: string;
+    friends: User[];
+}
+
+type DbUser = Omit<User, 'friends'> & {
     friends: string[];
 }
 
