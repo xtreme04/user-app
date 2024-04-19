@@ -5,8 +5,8 @@
         "last_name": "Bertin",
         "email": "ebertin0@freewebs.com",
         "gender": "Female",
-        "avatar": "https://robohash.org/etlaborerepellendus.png?size=50x50&set=set1",        
-        "friends": [],
+        "avatar": "https://robohash.org/etlaborerepellendus.png",        
+        "friends": ["0f83d879-9d79-4bde-86d9-0c5ca920215f", "de041af8-34d7-4b20-b843-3f96c5fda764"],
         "bio": ""
     },
     {
@@ -15,7 +15,7 @@
         "last_name": "Llewellin",
         "email": "dllewellin1@yandex.ru",
         "gender": "Male",
-        "avatar": "https://robohash.org/nequemagnialiquam.png?size=50x50&set=set1",
+        "avatar": "https://robohash.org/nequemagnialiquam.png",
         "friends": [],
         "bio": ""
     },
@@ -25,8 +25,8 @@
         "last_name": "Dillingham",
         "email": "mdillingham2@pen.io",
         "gender": "Male",
-        "avatar": "https://robohash.org/temporeasperioresquae.png?size=50x50&set=set1",
-        "friends": [],
+        "avatar": "https://robohash.org/temporeasperioresquae.png",
+        "friends": ["24bf6b84-03e0-49f8-bbb4-ed2a2a519234", "a06fbd35-0165-499e-9122-8c8bd619c881"],
         "bio": ""
     },
     {
