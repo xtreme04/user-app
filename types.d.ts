@@ -9,4 +9,4 @@ type User = {
     friends: string[];
 }
 
-type UserSummary = Omit<User, 'gender', 'friends'>
+type UserSummary = Omit<User, 'gender' | 'friends' | 'bio'>
